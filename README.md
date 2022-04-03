@@ -1,2 +1,3 @@
 # Hostal_Management_System_PJCT001
- This is a system to manage all related activities in a student hostel. The system provides solutions for maintaining student details, keep track of their payment details, hostel employee details etc. 
+
+This is a system to manage all related activities in a student hostel. The system branches out mainly to student management and employee management.  The system provides solutions for maintaining student details, their payment details, hostel employee details etc. The administrator has the capability of updating or deleting student’s information, to track their payments history, to make sure that they are paying for the room that’s booked. On the side of the employee management, the administrator has the ability to add a new employee and view an old employees’ details. The system has been developed to provide a user friendly interfaces with easy to navigate controls and includes appealing GUI components. 
