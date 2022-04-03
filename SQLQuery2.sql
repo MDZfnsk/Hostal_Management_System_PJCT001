@@ -1,0 +1,1 @@
+﻿SELECT Student_Id FROM Prototype;

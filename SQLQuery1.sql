@@ -1,0 +1,1 @@
+﻿SELECT *FROM StudentPay WHERE StudentID = 20251;

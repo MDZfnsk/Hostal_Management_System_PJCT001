@@ -1,0 +1,2 @@
+Select systemprototype database from the server explore and change the connection string in each an every 
+class of the project..
